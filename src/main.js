@@ -1,7 +1,6 @@
 import Vue from "vue";
 
 import SlideTitle from "./slides/SlideTitle.vue";
-import SlideOverview from "./slides/Overview.vue";
 import SlideTweet from "./slides/Tweet.vue";
 
 import SlideTpl from "./tpls/SlideTpl.vue";
@@ -106,12 +105,6 @@ new Vue({
   el: "#slide-title",
   template: "<slide-title></slide-title>",
   components: { SlideTitle: SlideTitle }
-});
-
-new Vue({
-  el: "#slide-overview",
-  template: "<slide-overview></slide-overview>",
-  components: { SlideOverview: SlideOverview }
 });
 
 new Vue({

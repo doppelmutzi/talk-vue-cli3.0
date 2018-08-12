@@ -1,0 +1,9 @@
+{
+    "el": "#slide-what",
+    "title": "Vue CLI",
+    "items": [
+        "Standard build toolchain for Vue apps",
+        "<a href='https://github.com/vuejs/vue-cli' targe='_blank'>Github project</a>",
+        "<a href='https://cli.vuejs.org/' targe='_blank'>Documentation</a>"
+    ]
+}
