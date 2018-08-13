@@ -1,0 +1,10 @@
+{
+    "el": "#slide-installation",
+    "title": "Installation and Usage",
+    "items": [
+        "<em>$ npm i -g @vue/cli</em>",
+        "<em>$ yarn global add @vue/cli</em>",
+        "Use global binary <em>$ vue --version</em>",
+        "Use it without installation <em>$ npx -p @vue/cli --version</em>"
+    ]
+}
