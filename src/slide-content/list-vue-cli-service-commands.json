@@ -1,0 +1,8 @@
+{
+    "el": "#slide-list-vue-cli-service-commands",
+    "title": "<em>vue-cli-service</em> commands",
+    "items": [
+        "There exist many commands. Plugins can also inject commands.",
+        "Find out for your project <em>$ ./node_modules/.bin/vue-cli-service help</em>"
+    ]
+}
