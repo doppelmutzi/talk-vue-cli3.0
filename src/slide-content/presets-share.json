@@ -1,0 +1,9 @@
+{
+    "el": "#slide-presets-share",
+    "title": "Presets can be shared",
+    "items": [
+        "Currently major VCS supported (Bitbucket, Github, Gitlab)",
+        "Presets can be added to own repository and used as local filesystem presets",
+        "<em>$ vue create --preset &lt;relative-path-to-preset-file&gt; &lt;project-name&gt;</em>"
+    ]
+}

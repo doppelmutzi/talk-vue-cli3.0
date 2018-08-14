@@ -1,4 +1,5 @@
 {
     "el": "#slide-project-structure-cli3",
-    "title": "Clean project structure"
+    "title": "Cleaner <em>package.json</em>",
+    "file": "package.json.png"
 }

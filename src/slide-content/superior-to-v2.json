@@ -2,6 +2,7 @@
     "el": "#slide-superior-to-v2",
     "title": "Vue CLI 3 superior to V2",
     "items": [
-        "todo"
+        "No ejection required &ndash; add plugins later",
+        "<em>$ vue add @vue/pwa</em>"
     ]
 }

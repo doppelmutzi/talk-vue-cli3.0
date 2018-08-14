@@ -1,0 +1,11 @@
+{
+    "el": "#slide-presets",
+    "title": "Custom Configs and Presets",
+    "items": [
+        "Vue CLI allows saving configs as presets",
+        "Presets can be reused when bootstraping new projects",
+        "Option 1: Manual setup",
+        "Option 2: <em>$ vue create --preset &lt;preset-name&gt; &lt;project-name&gt;</em>",
+        "Presets are stored in <em>~/.vuerc</em> file"
+    ]
+}
