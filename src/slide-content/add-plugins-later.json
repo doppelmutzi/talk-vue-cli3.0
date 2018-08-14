@@ -1,0 +1,9 @@
+{
+    "el": "#slide-add-plugins-later",
+    "title": "Adding Plugins afterwards",
+    "items": [
+        "In root folder by <em>$ vue add &lt;plugin-name&gt;</em>",
+        "E.g., <em>$ vue add vuetify</em> for <em>vue-cli-plugin-vuetify</em>",
+        "Using Vue UI for graphical search and install"
+    ]
+}

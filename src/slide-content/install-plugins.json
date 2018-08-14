@@ -1,0 +1,9 @@
+{
+    "el": "#slide-install-plugins",
+    "title": "Installation of Plugins",
+    "items": [
+        "Plugins can be installed during <em>vue create</em> process",
+        "Selecting plugins interactively during manual setup",
+        "Installation by using a preset"
+    ]
+}
