@@ -16,6 +16,7 @@ import pluginNamingConventionOfficial from "./plugin-naming-convention-official.
 import installPlugins from "./install-plugins.json";
 import addPluginsLater from "./add-plugins-later.json";
 import end from "./end.json";
+import cssPreprocessors from "./css-preprocessors.json";
 
 export default {
   slides: [
@@ -27,7 +28,8 @@ export default {
     presets,
     presetsShare,
     installPlugins,
-    addPluginsLater
+    addPluginsLater,
+    cssPreprocessors
   ],
   imageSlides: [
     end,

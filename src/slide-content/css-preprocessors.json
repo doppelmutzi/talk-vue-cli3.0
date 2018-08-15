@@ -1,0 +1,10 @@
+{
+    "el": "#slide-css-preprocessors",
+    "title": "CSS Preprocessors",
+    "items": [
+        "Sass and co. do not work out of the box",
+        "Internal Webpack config is already pre-configured for that use case",
+        "However, you have to install loaders yourself<br/><em>$ yarn add sass-loader node-sass</em>"
+
+    ]
+}
