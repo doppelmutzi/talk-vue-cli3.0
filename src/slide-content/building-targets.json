@@ -1,0 +1,11 @@
+{
+    "el": "#slide-building-targets",
+    "title": "Building Targets",
+    "items": [
+        "TODO",
+        "default",
+        "lib",
+        "web components",
+        "Beispiel react + web components"
+    ]
+}

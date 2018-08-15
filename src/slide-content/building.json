@@ -1,0 +1,11 @@
+{
+    "el": "#slide-building",
+    "title": "Building the Project",
+    "items": [
+        "TODO",
+        "dev -> serve",
+        "build -> prod",
+        "modes",
+        "custom -> .env.stage."
+    ]
+}

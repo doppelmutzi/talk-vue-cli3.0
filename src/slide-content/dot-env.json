@@ -1,0 +1,11 @@
+{
+    "el": "#slide-dot-env",
+    "title": "Environmental Variable",
+    "items": [
+        "<em>&lt;project-root&gt;/.env</em>",
+        "File that contains key-value pairs",
+        "Can be used like this in your project:<br/><em>process.env.&lt;key-name&gt;</em>",
+        "You can specify environment files for dev modes:<br/><em>.env.development</em><br/><em>.env.production",
+        "<strong>Important:</strong> To use it in Vue code, the key has to start with <em>VUE_APP_</em>"
+    ]
+}
