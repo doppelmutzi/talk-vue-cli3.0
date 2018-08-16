@@ -1,8 +1,10 @@
 {
     "el": "#slide-superior-to-v2",
-    "title": "Vue CLI 3 superior to V2",
+    "title": "Vue CLI V3 superior to V2",
     "items": [
         "No ejection required &ndash; add plugins later",
-        "<em>$ vue add @vue/pwa</em>"
+        "<em>$ vue add @vue/pwa</em>",
+        "Basic Webpack config is abstracted away",
+        "Still great flexibility (tweak Webpack config)"
     ]
 }

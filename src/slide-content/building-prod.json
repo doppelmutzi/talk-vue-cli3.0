@@ -1,0 +1,8 @@
+{
+    "el": "#slide-building-production",
+    "title": "Building for Production",
+    "items": [
+        "<a href='https://cli.vuejs.org/guide/cli-service.html#vue-cli-service-build' target='_blank'>Produce production bundle</a> <em>$ vue-cli-service build</em>",
+        "custom -> .env.stage."
+    ]
+}

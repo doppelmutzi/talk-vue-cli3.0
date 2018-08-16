@@ -1,0 +1,10 @@
+{
+    "el": "#slide-benefits",
+    "title": "Advantages of Vue CLI",
+    "items": [
+        "Does a lot of tedious work",
+        "Provides features out-of-the-box",
+        "Automatically plugs libraries into the project",
+        "It configures Webpack &ndash; JS/CSS files, dependencies are bundled together and optimized upon deployment"
+    ]
+}

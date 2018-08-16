@@ -3,8 +3,10 @@
     "title": "Vue CLI",
     "items": [
         "Standard build toolchain for Vue apps",
+        "Full system for rapid Vue.js development",
         "Aims for minimal configuration",
         "Incorporating modern frontend best practices",
         "Updateable and extensible architecture"
+
     ]
 }

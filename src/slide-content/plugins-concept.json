@@ -1,0 +1,10 @@
+{
+    "el": "#slide-plugins",
+    "title": "What can Plugins do?",
+    "items": [
+        "Vue CLI is built on a plugin-based architecture",
+        "Plugins can modify the internal webpack config",
+        "Plugins can inject commands to <em>vue-cli-service</em>",
+        "Custom plugins <a href='https://cli.vuejs.org/dev-guide/plugin-dev.html' target='_blank'>can be written</a>"
+    ]
+}

@@ -1,5 +1,6 @@
 import overview from "./chapter-overview.json";
 import what from "./what.json";
+import benefits from "./benefits.json";
 import github from "./github.json";
 import docu from "./docu.json";
 import installation from "./installation.json";
@@ -11,6 +12,8 @@ import listVueCliServiceCommands from "./list-vue-cli-service-commands.json";
 import projectStructureCli3 from "./project-structure-cli3.json";
 import projectStructureCli3Abstraction from "./project-structure-cli3-abstraction.json";
 import superior from "./superior-to-v2.json";
+import plugins from "./plugins.json";
+import pluginsConcept from "./plugins-concept.json";
 import pluginNamingConvention from "./plugin-naming-convention.json";
 import pluginNamingConventionOfficial from "./plugin-naming-convention-official.json";
 import installPlugins from "./install-plugins.json";
@@ -22,14 +25,18 @@ import noWebpackConfig from "./no-webpack-config.json";
 import vueConfig from "./vue-config.json";
 import instantPrototyping from "./instant-prototyping.json";
 import building from "./building.json";
+import buildingProd from "./building-prod.json";
 import buildingTargets from "./building-targets.json";
 import webComponents from "./web-components.json";
 import modernMode from "./modern-mode.json";
 import vueService from "./vue-service.json";
+import packageJsonVueService from "./package-json-vue-cli-service.json";
+import vueUi from "./vue-ui.json";
 
 export default {
   slides: [
     what,
+    benefits,
     superior,
     installation,
     vueCliService,
@@ -44,8 +51,10 @@ export default {
     vueConfig,
     instantPrototyping,
     building,
+    buildingProd,
     buildingTargets,
-    modernMode
+    modernMode,
+    pluginsConcept
   ],
   imageSlides: [
     end,
@@ -56,8 +65,9 @@ export default {
     projectStructureCli3Abstraction,
     pluginNamingConvention,
     pluginNamingConventionOfficial,
-    webComponents
+    webComponents,
+    packageJsonVueService
   ],
-  chapters: [overview, vueService],
+  chapters: [overview, vueService, vueUi, plugins],
   codepens: []
 };

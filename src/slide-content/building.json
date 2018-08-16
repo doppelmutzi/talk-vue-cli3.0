@@ -1,11 +1,9 @@
 {
     "el": "#slide-building",
-    "title": "Building the Project",
+    "title": "Building and Serving the Project",
     "items": [
-        "TODO",
-        "dev -> serve",
-        "build -> prod",
-        "modes",
-        "custom -> .env.stage."
+        "<a href='https://cli.vuejs.org/guide/cli-service.html#vue-cli-service-serve' target='_blank'>Start dev server</a> <em>$ vue-cli-service serve</em>",
+        "based on <a href='https://github.com/webpack/webpack-dev-server' target='_blank'>webpack-dev-server</a>",
+        "Hot-Module-Replacement (HMR) is activated"
     ]
 }

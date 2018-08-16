@@ -3,8 +3,6 @@
     "title": "@vue/cli-service",
     "items": [
         "Vue CLI project exposes binary <em>vue-cli-service<em>",
-        "Can be used from npm scripts or terminal",
-        "<a href='https://cli.vuejs.org/guide/cli-service.html#vue-cli-service-serve' target='_blank'>Start dev server</a> <em>$ vue-cli-service serve</em>",
-        "<a href='https://cli.vuejs.org/guide/cli-service.html#vue-cli-service-build' target='_blank'>Produce production bundle</a> <em>$ vue-cli-service build</em>"
+        "Can be used from npm scripts or terminal"
     ]
 }
