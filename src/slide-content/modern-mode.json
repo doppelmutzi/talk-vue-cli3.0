@@ -2,6 +2,7 @@
     "el": "#slide-modern-mode",
     "title": "Modern Mode",
     "items": [
-        "TODO"
+        "<em>$ vue-cli-service build --modern</em>", 
+        "shipps native ES2015 code to modern browsers that support it, with auto fallback to a legacy bundle"
     ]
 }
