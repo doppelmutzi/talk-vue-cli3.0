@@ -1,8 +1,9 @@
 {
     "el": "#slide-modern-mode",
-    "title": "Modern Mode",
+    "title": "Building Modern Bundles",
     "items": [
-        "<em>$ vue-cli-service build --modern</em>", 
-        "shipps native ES2015 code to modern browsers that support it, with auto fallback to a legacy bundle"
+        "<em>$ --modern</em>", 
+        "Shipps native ES2015 code to modern browsers that support it, with auto fallback to a legacy bundle",
+        "Produces <a href='https://cli.vuejs.org/guide/browser-compatibility.html#modern-mode' target='_blank'>two bundles</a>: a untranspiled version for modern browsern and a common transpiled version"
     ]
 }

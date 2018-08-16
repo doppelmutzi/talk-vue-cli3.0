@@ -54,7 +54,7 @@ export default {
     instantPrototyping,
     building,
     buildingProd,
-    buildingTargets,
+   // buildingTargets,
     modernMode,
     pluginsConcept,
     buildingProdAdvanced
@@ -68,7 +68,7 @@ export default {
     projectStructureCli3Abstraction,
     pluginNamingConvention,
     pluginNamingConventionOfficial,
-    webComponents,
+    //webComponents,
     packageJsonVueService,
     bundleAnalyzer
   ],
