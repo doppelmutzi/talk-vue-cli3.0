@@ -26,6 +26,8 @@ import vueConfig from "./vue-config.json";
 import instantPrototyping from "./instant-prototyping.json";
 import building from "./building.json";
 import buildingProd from "./building-prod.json";
+import bundleAnalyzer from "./bundle-analyzer.json";
+import buildingProdAdvanced from "./building-prod-advanced.json";
 import buildingTargets from "./building-targets.json";
 import webComponents from "./web-components.json";
 import modernMode from "./modern-mode.json";
@@ -54,7 +56,8 @@ export default {
     buildingProd,
     buildingTargets,
     modernMode,
-    pluginsConcept
+    pluginsConcept,
+    buildingProdAdvanced
   ],
   imageSlides: [
     end,
@@ -66,7 +69,8 @@ export default {
     pluginNamingConvention,
     pluginNamingConventionOfficial,
     webComponents,
-    packageJsonVueService
+    packageJsonVueService,
+    bundleAnalyzer
   ],
   chapters: [overview, vueService, vueUi, plugins],
   codepens: []

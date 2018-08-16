@@ -3,6 +3,7 @@
     "title": "Building for Production",
     "items": [
         "<a href='https://cli.vuejs.org/guide/cli-service.html#vue-cli-service-build' target='_blank'>Produce production bundle</a> <em>$ vue-cli-service build</em>",
-        "custom -> .env.stage."
+        "<em>--watch</em> watch for changes",
+        "<em>--report</em> generates a report (<a href='https://github.com/webpack-contrib/webpack-bundle-analyzer' target='_blank'>webpackage bundle analyzer</a>)"
     ]
 }

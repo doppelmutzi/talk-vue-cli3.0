@@ -4,6 +4,6 @@
     "items": [
         "Global addon required <em>$ npm i -g @vue/cli-service-global</em>",
         "<em>$ echo '&lt;template&gt;&lt;h1&gt;Hello World&lt;/h1&gt;&lt;/template&gt;' &gt; App.vue && vue serve</em>",
-        "Dev server startet listining on port 8081"
+        "Dev server listining on port 8081"
     ]
 }

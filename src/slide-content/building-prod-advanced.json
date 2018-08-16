@@ -1,0 +1,9 @@
+{
+    "el": "#slide-building-production-advanced",
+    "title": "Advanced Building Options",
+    "items": [
+        "<em>--mode</em> specifies <a href='https://cli.vuejs.org/guide/mode-and-env.html#modes' target='_blank'>environment mode</a>: production (default), development, or custom",
+        "custom mode (e.g., &quot;stage&quot;) &#8594; <em>.env.stage</em>",
+        "<em>--target</em> specifies <a href='https://cli.vuejs.org/guide/build-targets.html#app' target='_blank'>build target</a>: app (default), library or web component"
+    ]
+}
