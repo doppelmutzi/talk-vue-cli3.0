@@ -1,4 +1,9 @@
 {
     "el": "#slide-no-webpack-config",
-    "title": "Webpack is abstracted away"
+    "title": "Webpack is Abstracted Away",
+    "items": [
+        "Vue CLI utilizes Webpack under the hood",
+        "Vue CLI users don't have direct access",
+        "You can <a href='https://cli.vuejs.org/guide/webpack.html#inspecting-the-project-s-webpack-config' target='_blank'>inspect</a> the resolved Webpack config <em>$ vue-cli-service inspect &gt; output.js</em>"
+    ]
 }

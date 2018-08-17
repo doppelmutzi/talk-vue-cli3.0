@@ -2,6 +2,9 @@
     "el": "#slide-vue-config",
     "title": "<em>Vue Config</em>",
     "items": [
-        "bli bla blub"
+        "<em>&lt;project-root&gt;vue.config.js</em> is optional <a href='https://cli.vuejs.org/config/#vue-config-js' target='_blank'>config file</a>",
+        "Alternative: <em>vue</em> field inside of <em>package.json</em>",
+        "Automatically loaded by <em>@vue/cli-service</em>",
+        "Of course, <a href='https://cli.vuejs.org/config/#configurewebpack' target='_blank'>tweaking internal Webpack config</a> is possible"
     ]
 }

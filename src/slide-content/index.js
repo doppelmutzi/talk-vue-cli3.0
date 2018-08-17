@@ -23,6 +23,7 @@ import dotEnv from "./dot-env.json";
 import cssPreprocessors from "./css-preprocessors.json";
 import noWebpackConfig from "./no-webpack-config.json";
 import vueConfig from "./vue-config.json";
+import vueConfigExample from "./vue-config-example.json";
 import instantPrototyping from "./instant-prototyping.json";
 import building from "./building.json";
 import buildingProd from "./building-prod.json";
@@ -34,6 +35,9 @@ import modernMode from "./modern-mode.json";
 import vueService from "./vue-service.json";
 import packageJsonVueService from "./package-json-vue-cli-service.json";
 import vueUi from "./vue-ui.json";
+import vueUiWhat from "./vue-ui-what.json";
+import vueUiScripts from "./vue-ui-scripts.json";
+import vueUiMonitoroing from "./vue-ui-monitoring.json";
 
 export default {
   slides: [
@@ -57,7 +61,8 @@ export default {
    // buildingTargets,
     modernMode,
     pluginsConcept,
-    buildingProdAdvanced
+    buildingProdAdvanced,
+    vueUiWhat
   ],
   imageSlides: [
     end,
@@ -70,7 +75,10 @@ export default {
     pluginNamingConventionOfficial,
     //webComponents,
     packageJsonVueService,
-    bundleAnalyzer
+    bundleAnalyzer,
+    vueConfigExample,
+    vueUiScripts,
+    vueUiMonitoroing
   ],
   chapters: [overview, vueService, vueUi, plugins],
   codepens: []

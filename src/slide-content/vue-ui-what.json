@@ -1,0 +1,11 @@
+{
+    "el": "#slide-vue-ui",
+    "title": "Using Vue CLI User Interface",
+    "items": [
+        "Allows to graphically create new projects",
+        "Enables live monitoring of app performance",
+        "Manage plugins, start npm scripts, etc.",
+        "Start UI from any folder <em>vue</em> binary <em>$ vue ui</em>",
+        "Alternative <em>$ npx -p @vue/cli vue ui</em>"        
+    ]
+}
