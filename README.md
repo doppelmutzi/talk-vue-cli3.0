@@ -7,4 +7,4 @@ These slides are made with [reveal.js](http://lab.hakim.se/reveal-js/). To view 
 - Clone the project `$ git clone git@github.com:doppelmutzi/talk-vue-cli3.0.git`
 - Install the npm packages: `$ npm i`
 - Start with `$ npm run dev`
-- Open `http://localhost:8081` in browser
+- Open `http://localhost:8080` in browser
